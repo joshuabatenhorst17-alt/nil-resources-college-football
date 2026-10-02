@@ -1,0 +1,15 @@
+{
+  "game_count": 347,
+  "resolved": 308,
+  "wins": 201,
+  "missing_score_games": 1,
+  "resource_ties": 38,
+  "normal_equation_check": "pass",
+  "row_orientation_and_order": "pass",
+  "independent_pair_covariance": "pass",
+  "archive_reproduction": "pass",
+  "resource_join_consistency": "pass for all 347 rows",
+  "resource_range_midpoints": "pass for all 68 programs",
+  "correction_field_entries": 12,
+  "corrected_games": 2
+}
